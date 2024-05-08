@@ -1,0 +1,6 @@
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest_API/Using_XMLHttpRequest
+Aqui viene el como, ademas de buscar el taller para el desarrollo de la configuracion web - api
+
+
+la web es con css y html
+
